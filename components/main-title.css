@@ -1,0 +1,22 @@
+.main-title{
+    font-family: "Outfit", sans-serif;
+    font-size: 18px;
+    padding-left: 25px;
+    padding-top: 15px;
+    color: hsl(0, 0%, 100%);
+}
+.main-title:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
+.title.-subtitle{
+    align-self: center;
+    font-family: "Outfit", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    padding-top: 15px;
+    padding-left: 25px;
+    color: hsl(215, 51%, 70%);
+}
+

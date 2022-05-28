@@ -1,0 +1,23 @@
+.container-card{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    border-radius: 5%;
+}
+
+.main-card{
+    box-sizing: border-box;
+    border-radius: 10%;
+    border: 15px solid hsl(217, 51%, 12%);
+    
+}
+
+.main-card.-card{
+    display: flex;
+    flex-direction: column;
+    width: 310px;
+    height: 520px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 5%;
+    border: none;
+}

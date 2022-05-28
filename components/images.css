@@ -1,0 +1,16 @@
+.image{
+    align-self: center;
+    width: 260px;
+    height: 272px;
+    border-radius: 5%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.mini-avatar{
+    width: 30px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-right: 10px;
+}

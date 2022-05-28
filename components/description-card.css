@@ -1,0 +1,29 @@
+.description-card{
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    padding-top: 30px;
+    padding-left: 25px;
+    color: hsl(215, 51%, 70%);
+    ;
+}
+.description-card a{
+    color: white;
+    text-decoration: none;
+}
+
+.description-card a:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+.description-card::before{
+    content: '';
+    position: relative;
+    display: block;
+    bottom: 10px;
+    height: 1px;
+    width: 260px;
+    background-color: hsl(215, 32%, 27%);
+}
+
+

@@ -1,0 +1,18 @@
+.main-shop{
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-shop{
+    font-family: "Outfit", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-top: 25px;
+    color: hsl(178, 100%, 50%);
+}
+
+.text-shop.-days{
+    font-weight: 400;
+    padding-left: 50px;
+    color: hsl(215, 51%, 70%);
+}
